@@ -2,8 +2,8 @@
 关于自己的学习的相关内容
 
 TODO List
-[] 设计模式学习
-[] git学习
-[] pwa学习
-[] webpack学习
-[] nuxt学习
+- [ ] 设计模式学习
+- [ ] git学习
+- [ ] pwa学习
+- [ ] webpack学习
+- [ ] nuxt学习
