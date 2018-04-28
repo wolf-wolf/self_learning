@@ -3,7 +3,12 @@
 
 TODO List
 - [ ] 设计模式学习
-      factory design pattern: http://robdodson.me/javascript-design-patterns-factory/
+
+      http://www.dofactory.com/javascript/singleton-design-pattern
+
+      factory design pattern: http://robdodson.me/javascript-design-patterns-factory/
+      singleton design pattern: http://robdodson.me/javascript-design-patterns-singleton/
+      
 - [ ] git学习
 - [ ] pwa学习
 - [ ] webpack学习
